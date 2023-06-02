@@ -7,9 +7,9 @@
 
 - 👯 I’m looking for clients who are [in Ecommerce and are trying to implement new Tech](https://dolphinconsults.com/about/)
 
-- 💬 Ask me about **Building AI into your business**
+- 💬 Ask me about **Connecting AI to your data**
 
-- 📫 How to reach me **drew@dolphinconsults.com**
+- 📫 How to reach me: **drew@dolphinconsults.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
