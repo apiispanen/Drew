@@ -20,7 +20,7 @@
 
 <h3 align="left">My Solo Projects:</h3>
 <a href="https://ringledingle.com/" target="_blank"><h4 style="display:inline">RingleDingle:</h4> <p style="display:inline">Ultra-Personalized Greeting Cards</p></a>
-<a href="https://networker.up.railway.app/" target="_blank"><h4 style="display:inline">Networker:</h4><p style="display:inline">An AI-powered Voice-First CRM</p></a>
+<a href="https://networker.up.railway.app/" target="_blank"><p style="display:inline">Networker:An AI-powered Voice-First CRM</p></a>
 <a href="https://biohacker.streamlitapp.com/" target="_blank"><h4 style="display:inline">Biohacker:</h4><p style="display:inline">Machine Learning Mood Tracking</p></a>
 
 <h3 align="left">Languages and Tools:</h3>
