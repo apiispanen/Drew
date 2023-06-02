@@ -9,7 +9,7 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Full-Stack project: Building AI-Powered Greeting Cards](https://medium.com/@alejandro-ao/full-stack-project-chatgpt-api-react-and-node-e432c20ade94?source=rss-7e4e748ece1a------2)
-- [Biohacker: Ideas to Discovering our Minds](https://medium.com/@andrewpiispanen/solutions-to-a-broken-mind-200ea7ac1598))
+- [Biohacker: Ideas to Discovering our Minds](https://medium.com/@andrewpiispanen/solutions-to-a-broken-mind-200ea7ac1598)
 - [Building a $1M lead funnel through SEO](https://github.com/apiispanen/Neural_Network_Charity_Analysis)
 - [A Simple Explanation of Linear Regression &lpar;Example using R&rpar;](https://medium.com/@alejandro-ao/a-simple-explanation-of-linear-regression-cb6126afe4c2?source=rss-7e4e748ece1a------2)
 - [How to create and configure a MySQL database for WordPress using the command line](https://medium.com/@alejandro-ao/how-to-create-and-configure-a-mysql-database-for-wordpress-3979bd9ce8b?source=rss-7e4e748ece1a------2)
