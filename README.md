@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apiispanen&label=Profile%20views&color=0e75b6&style=flat" alt="apiispanen" /> </p>
 
-- 🔭 I’m currently working on [Dolphin Consults](https://dolphinconsults.com/)
+- 🔭 I’m currently building [Dolphin Studios LLC](https://dolphinstudios.co/)
 
-- 👯 I’m looking for clients who are [in Ecommerce and are trying to implement new Tech](https://dolphinconsults.com/about/)
+- 👯 I’m looking for clients who are [in Ecommerce and are trying to implement new Tech](https://dolphinstudios.co/about/)
 
 - 💬 Ask me about **Connecting AI to your data**
 
