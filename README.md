@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently building [Dolphin Studios LLC](https://dolphinstudios.co/)
 
-- 👯 I’m looking for clients who are [in Ecommerce and are trying to implement new Tech](https://dolphinstudios.co/about/)
+- 👯 I’m looking for startups who need both an architect and team to [build their idea and bring it to life](https://dolphinstudios.co/about/)
 
-- 💬 Ask me about **Connecting AI to your data**
+- 💬 Ask me about **Building APIs for your AI application**
 
-- 📫 How to reach me: **drew@dolphinconsults.com**
+- 📫 How to reach me: **drew@dolphinstudios.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +17,12 @@
 <a href="https://linkedin.com/in/drew-piispanen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drew-piispanen" height="30" width="40" /></a>
 <a href="https://medium.com/@andrewpiispanen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@andrewpiispanen" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Our Clients:</h3>
+<p style="display:inline">[Spinnr](https://apps.apple.com/us/app/spinnr-meet-new-friends/id1637873205)</p>
+<p style="display:inline">[Larq.ai](https://teachserv.com/)</p>
+<p style="display:inline">[DoALL Saws](https://www.doallsaws.com/)</p>
+
 
 <h3 align="left">My Solo Projects:</h3>
 <p style="display:inline"><a href="https://ringledingle.com/" target="_blank">RingleDingle: Ultra-Personalized Greeting Cards</a></p>
