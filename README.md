@@ -19,10 +19,10 @@
 </p>
 
 <h3 align="left">Our Clients:</h3>
-[Spinnr](https://apps.apple.com/us/app/spinnr-meet-new-friends/id1637873205)
-[Larq.ai](https://larq.ai/)
-[DoALL Saws](https://www.doallsaws.com/)
-[Teachserv](https://teachserv.com)
+- [Spinnr](https://apps.apple.com/us/app/spinnr-meet-new-friends/id1637873205)
+- [Larq.ai](https://larq.ai/)
+- [DoALL Saws](https://www.doallsaws.com/)
+- [Teachserv](https://teachserv.com)
 
 <h3 align="left">My Solo Projects:</h3>
 <p style="display:inline"><a href="https://ringledingle.com/" target="_blank">RingleDingle: Ultra-Personalized Greeting Cards</a></p>
