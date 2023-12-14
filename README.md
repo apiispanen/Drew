@@ -24,7 +24,6 @@
     <li><a href="https://leadoff.ai/" target="_blank">Leadoff.ai</a></li>
     <li><a href="https://apps.apple.com/us/app/spinnr-meet-new-friends/id1637873205" target="_blank">Spinnr</a></li>
     <li><a href="https://larq.ai/" target="_blank">Larq.ai</a></li>
-    <li><a href="https://www.doallsaws.com/" target="_blank">DoALL Saws</a></li>
     <li><a href="https://teachserv.com" target="_blank">Teachserv</a></li>
 </ul>
 
