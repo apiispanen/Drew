@@ -20,11 +20,11 @@
 
 <h3 align="left">Our Clients:</h3>
 <ul>
-    <li><a href="https://ringledingle.com/" target="_blank">RingleDingle: Ultra-Personalized Greeting Cards</a></li>
+    <li><a href="https://shiftpixy.com/" target="_blank">Shiftpixy</a></li>
+    <li><a href="https://www.resolvd.ai/" target="_blank">Resolvd.ai</a></li>
     <li><a href="https://leadoff.ai/" target="_blank">Leadoff.ai</a></li>
     <li><a href="https://apps.apple.com/us/app/spinnr-meet-new-friends/id1637873205" target="_blank">Spinnr</a></li>
     <li><a href="https://larq.ai/" target="_blank">Larq.ai</a></li>
-    <li><a href="https://teachserv.com" target="_blank">Teachserv</a></li>
 </ul>
 
 
