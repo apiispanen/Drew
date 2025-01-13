@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Building APIs for your AI application**
 
-- 📫 How to reach me: **drew@dolphinstudios.co**
+- 📫 How to reach me: **engage@dolphinstudios.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
